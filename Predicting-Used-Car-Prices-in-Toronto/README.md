@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Usage
 This project has two files:
-* a python [script](/webscraper.py) that contains a template for web scraping
-* a [jupyter notebook](/Used-car-demo.ipynb) containing the annotated end-to-end data science demo
+* a python [script](https://github.com/isaac-chung/data-science-projects/blob/master/Predicting-Used-Car-Prices-in-Toronto/webscraper.py) that contains a template for web scraping
+* a [jupyter notebook](https://github.com/isaac-chung/data-science-projects/blob/master/Predicting-Used-Car-Prices-in-Toronto/Used-car-demo.ipynb) containing the annotated end-to-end data science demo
 
 Assumptions made are stated in the notebook markups. 
